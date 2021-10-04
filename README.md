@@ -1,4 +1,3 @@
 # Face-detection-Flask
 
-Simple application de détection de visage Utilisant le Framework Flask, Python et openCV.
-C'est une réitération d'un précédent repository.
+A little face detection application using the Flask Framework, Python and openCV. It can be use for videosurveillance application by changing the input to an IP Camera address.
